@@ -1,0 +1,36 @@
+/*!
+ * Start Bootstrap - The Big Picture (https://startbootstrap.com/template/the-big-picture)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-the-big-picture/blob/master/LICENSE)
+ */
+
+/* colors
+ #F3E9DC
+ C08552
+ 5E3023
+ 895737
+ DAB49D
+ */
+body {
+  /* background: url('http://placehold.it/1920x1080') no-repeat center center fixed; */
+  background-color: #c08552;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+h1,
+p {
+  color: white;
+}
+
+.brown-scheme {
+  background-color: #5e3023;
+}
+.navbar-brand,
+.nav-link {
+  color: white !important;
+}
+.nav-link:hover {
+  color: black !important;
+}
